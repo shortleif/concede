@@ -1,0 +1,16 @@
+.gold {
+    color: #ffd700; /* Gold color */
+}
+.silver {
+    color: #868686; /* Dark Silver color */
+}
+.copper {
+    color: #b87333; /* Copper color */
+}
+        .hide {
+    display: none;
+}
+
+.show {
+    display: inline-block; /* Or use 'block' if needed */
+}
