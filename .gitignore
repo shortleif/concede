@@ -9,7 +9,6 @@ node_modules/
 
 # Data Files (adjust as needed)
 credentials.json
-auction_data.json
 
 # Common Exclusions
 bin/
